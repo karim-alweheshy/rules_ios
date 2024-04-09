@@ -32,7 +32,6 @@ _CPU_TO_DEFAULT_PLATFORM_NAME = {
     "tvos_sim_arm64": "tvos_sim_arm64",
     "visionos_arm64": "visionos_arm64",
     "visionos_sim_arm64": "visionos_sim_arm64",
-    "visionos_x86_64": "visionos_x86_64",
     "watchos_arm64": "watchos_arm64",
     "watchos_arm64_32": "watchos_arm64_32",
     "watchos_armv7k": "watchos_armv7k",
